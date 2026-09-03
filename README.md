@@ -43,6 +43,31 @@ What are the key business recommendations based on the data?
 
 -------------------------------------------------------------------------------------------------
 
+Python for data cleaning: 
+
+
+<img width="917" height="411" alt="image" src="https://github.com/user-attachments/assets/d6be52b9-0c4e-4ee5-8d0a-a86463f9f4ad" />
+
+
+<img width="905" height="300" alt="image" src="https://github.com/user-attachments/assets/7a6d76b2-b4f5-42c1-bda6-d2c5785a9397" />
+
+
+
+<img width="918" height="479" alt="image" src="https://github.com/user-attachments/assets/e771c0d3-47a7-4e3d-a650-ce119b682892" />
+
+
+
+<img width="895" height="470" alt="image" src="https://github.com/user-attachments/assets/862e39fa-1d0c-4c4a-8940-1ebec5b050ed" />
+
+
+<img width="893" height="246" alt="image" src="https://github.com/user-attachments/assets/21505d4f-d65e-41bf-97e7-910de9e40ccd" />
+
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+
 
 Key Business Insights:
 
